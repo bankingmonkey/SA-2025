@@ -19,6 +19,6 @@ To contirbute:
 | [PWP](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-pwpext/brand-4/xf-3692fcc9b38d/candidate/jobboard/vacancy/2/adv/) | Investment banking | Closed  | Opened then closed |
 | [KKR](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-pwpext/brand-4/xf-3692fcc9b38d/candidate/jobboard/vacancy/2/adv/) | Private Equity | Open  | All locations, all teams |
 | [Moelis](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-pwpext/brand-4/xf-3692fcc9b38d/candidate/jobboard/vacancy/2/adv/) | Investment Banking | Open  | NYC, Houston |
-| [Ares]((https://aresmgmt.wd1.myworkdayjobs.com/External)) | Private Equity | Open  | All locations, all teams |
+| [Ares](https://aresmgmt.wd1.myworkdayjobs.com/External) | Private Equity | Open  | All locations, all teams |
 | [Lazard](https://lazard-careers.tal.net/vx/lang-en-GB/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/) | Investment Banking | Open  | All locations |
 | Qatalyst | Investment Banking | Open  | SF, application on Handshake |
