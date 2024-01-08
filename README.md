@@ -1,5 +1,7 @@
 # SA 2025 Finance Internships
-Collection of 2025 Summer Analyst Internships
+2025 Summer Analyst Internships
+
+* Investment Banking, Private Equity, Hedge Fund, etc.
 
 ---
 
