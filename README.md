@@ -5,7 +5,7 @@
 
 ---
 
-To contirbute:
+To contribute:
 
 * Submit a internship (new or update) [here](https://airtable.com/appB3XkZARHzjTeDe/pagKKZ4pd1qGjBkn4/form)
 
