@@ -24,3 +24,4 @@ To contribute:
 | [Ares](https://aresmgmt.wd1.myworkdayjobs.com/External) | Private Equity | Open  | All locations, all teams |
 | [Lazard](https://lazard-careers.tal.net/vx/lang-en-GB/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/) | Investment Banking | Open  | All locations |
 | Qatalyst | Investment Banking | Open  | SF, application on Handshake |
+| [Deustche Bank ](https://careers.db.com/students-graduates/Search-Programmes/#/graduate/results/?program=11&year=2025) | Investment Banking | Open  | All locations |
