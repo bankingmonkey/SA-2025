@@ -18,7 +18,7 @@ To contribute:
 | [Rothchild](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/gaus-2025-global-advisory-summer-analyst/) | Investment banking | Open | New York City |
 | [Guggenheim](https://careers-guggenheimpartners.icims.com/jobs/search?ss=1&searchRelation=keyword_all&searchPositionType=8710) | Investment banking | Open | All offices |
 | [JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210471276) | Investment banking | Open | All offices |
-| [PWP](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-pwpext/brand-4/xf-3692fcc9b38d/candidate/jobboard/vacancy/2/adv/) | Investment banking | Closed  | Opened then closed |
+| [PWP](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/user-207417/xf-279bf77f2d13/candidate/so/pm/1/pl/2/opp/810-2025-Advisory-Summer-Analyst-US/en-GB) | Investment banking | Open  | All locations |
 | [Moelis](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-pwpext/brand-4/xf-3692fcc9b38d/candidate/jobboard/vacancy/2/adv/) | Investment Banking | Open  | NYC, Houston |
 | [Lazard](https://lazard-careers.tal.net/vx/lang-en-GB/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/) | Investment Banking | Open  | All locations |
 | Qatalyst | Investment Banking | Open  | SF, application on Handshake |
