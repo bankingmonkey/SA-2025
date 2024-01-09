@@ -25,13 +25,6 @@ Investment Banks
 | [Moelis](https://moelis-careers.tal.net/candidate/jobboard/vacancy/2/adv/) | Investment Banking | Open  | Houston (Jan 23 deadline), NYC (Feb 12 deadline)|
 | [William Blair](https://williamblair.avature.net/careers) | Investment Banking | Open  | All locations |
 
-Private Equity Extended
-| Firm  |  Position(s) | Application Status | Notes |
-|---|---|-------------|-------------|
-| [Ares](https://aresmgmt.wd1.myworkdayjobs.com/External) | Private Equity + Other | Open  | All locations, all teams |
-| [KKR](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-pwpext/brand-4/xf-3692fcc9b38d/candidate/jobboard/vacancy/2/adv/) | Private Equity + Other | Open  | All locations, all teams |
-| [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/jobs?fbclid=IwAR1UEUA5JGgy_tBkZiYXoyaGTOmStLedks97IZ-VLCLfPdyaY_EvoKpeL-A) | Private Equity + Other | Open  | All locations, all teams |
-
 ---
 
 <div align="center">
@@ -50,3 +43,12 @@ Private Equity Extended
 </div>
 
 ---
+
+Private Equity Extended
+| Firm  |  Position(s) | Application Status | Notes |
+|---|---|-------------|-------------|
+| [Ares](https://aresmgmt.wd1.myworkdayjobs.com/External) | Private Equity + Other | Open  | All locations, all teams |
+| [KKR](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-pwpext/brand-4/xf-3692fcc9b38d/candidate/jobboard/vacancy/2/adv/) | Private Equity + Other | Open  | All locations, all teams |
+| [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/jobs?fbclid=IwAR1UEUA5JGgy_tBkZiYXoyaGTOmStLedks97IZ-VLCLfPdyaY_EvoKpeL-A) | Private Equity + Other | Open  | All locations, all teams |
+
+
