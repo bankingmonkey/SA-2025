@@ -3,14 +3,12 @@
 
 * Investment Banking, Private Equity, Hedge Fund, etc.
 
----
-
 To contribute:
 
 * Submit a internship (new or update) [here](https://airtable.com/appB3XkZARHzjTeDe/pagKKZ4pd1qGjBkn4/form)
 
 ---
-
+Investment Banks
 | Firm  |  Position(s) | Application Status | Notes |
 |---|---|-------------|-------------|
 | [Houlihan Lokey](https://hl.wd1.myworkdayjobs.com/Campus) | Investment banking | Open | All offices |
@@ -24,7 +22,13 @@ To contribute:
 | Qatalyst | Investment Banking | Open  | SF, application on Handshake |
 | [Deustche Bank](https://careers.db.com/students-graduates/Search-Programmes/#/graduate/results/?program=11&year=2025) | Investment Banking | Open  | All locations |
 | [UBS](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25008&siteid=5029&Areq=284261BR&codes=GBInsight&utm_source=recruitu.beehiiv.com&utm_medium=newsletter&utm_campaign=first-step-to-final-offer-01-02-24#jobDetails=287598_5029) | Investment Banking | Open  | New York City |
+| [Moelis](https://moelis-careers.tal.net/candidate/jobboard/vacancy/2/adv/) | Investment Banking | Open  | Houston (Jan 23 deadline), NYC (Feb 12 deadline)|
 | [William Blair](https://williamblair.avature.net/careers) | Investment Banking | Open  | All locations |
+
+Private Equity Extended
+| Firm  |  Position(s) | Application Status | Notes |
+|---|---|-------------|-------------|
 | [Ares](https://aresmgmt.wd1.myworkdayjobs.com/External) | Private Equity + Other | Open  | All locations, all teams |
 | [KKR](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-pwpext/brand-4/xf-3692fcc9b38d/candidate/jobboard/vacancy/2/adv/) | Private Equity + Other | Open  | All locations, all teams |
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/jobs?fbclid=IwAR1UEUA5JGgy_tBkZiYXoyaGTOmStLedks97IZ-VLCLfPdyaY_EvoKpeL-A) | Private Equity + Other | Open  | All locations, all teams |
+
