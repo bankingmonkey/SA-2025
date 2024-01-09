@@ -22,7 +22,8 @@ To contribute:
 | [Moelis](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-pwpext/brand-4/xf-3692fcc9b38d/candidate/jobboard/vacancy/2/adv/) | Investment Banking | Open  | NYC, Houston |
 | [Lazard](https://lazard-careers.tal.net/vx/lang-en-GB/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/) | Investment Banking | Open  | All locations |
 | Qatalyst | Investment Banking | Open  | SF, application on Handshake |
-| [Deustche Bank ](https://careers.db.com/students-graduates/Search-Programmes/#/graduate/results/?program=11&year=2025) | Investment Banking | Open  | All locations |
+| [Deustche Bank](https://careers.db.com/students-graduates/Search-Programmes/#/graduate/results/?program=11&year=2025) | Investment Banking | Open  | All locations |
+| [William Blair](https://williamblair.avature.net/careers) | Investment Banking | Open  | All locations |
 | [Ares](https://aresmgmt.wd1.myworkdayjobs.com/External) | Private Equity + Other | Open  | All locations, all teams |
 | [KKR](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-pwpext/brand-4/xf-3692fcc9b38d/candidate/jobboard/vacancy/2/adv/) | Private Equity + Other | Open  | All locations, all teams |
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/jobs?fbclid=IwAR1UEUA5JGgy_tBkZiYXoyaGTOmStLedks97IZ-VLCLfPdyaY_EvoKpeL-A) | Private Equity + Other | Open  | All locations, all teams |
