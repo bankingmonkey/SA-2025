@@ -19,9 +19,10 @@ To contribute:
 | [Guggenheim](https://careers-guggenheimpartners.icims.com/jobs/search?ss=1&searchRelation=keyword_all&searchPositionType=8710) | Investment banking | Open | All offices |
 | [JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210471276) | Investment banking | Open | All offices |
 | [PWP](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-pwpext/brand-4/xf-3692fcc9b38d/candidate/jobboard/vacancy/2/adv/) | Investment banking | Closed  | Opened then closed |
-| [KKR](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-pwpext/brand-4/xf-3692fcc9b38d/candidate/jobboard/vacancy/2/adv/) | Private Equity | Open  | All locations, all teams |
 | [Moelis](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-pwpext/brand-4/xf-3692fcc9b38d/candidate/jobboard/vacancy/2/adv/) | Investment Banking | Open  | NYC, Houston |
-| [Ares](https://aresmgmt.wd1.myworkdayjobs.com/External) | Private Equity | Open  | All locations, all teams |
 | [Lazard](https://lazard-careers.tal.net/vx/lang-en-GB/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/) | Investment Banking | Open  | All locations |
 | Qatalyst | Investment Banking | Open  | SF, application on Handshake |
 | [Deustche Bank ](https://careers.db.com/students-graduates/Search-Programmes/#/graduate/results/?program=11&year=2025) | Investment Banking | Open  | All locations |
+| [Ares](https://aresmgmt.wd1.myworkdayjobs.com/External) | Private Equity + Other | Open  | All locations, all teams |
+| [KKR](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-pwpext/brand-4/xf-3692fcc9b38d/candidate/jobboard/vacancy/2/adv/) | Private Equity + Other | Open  | All locations, all teams |
+| [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/jobs?fbclid=IwAR1UEUA5JGgy_tBkZiYXoyaGTOmStLedks97IZ-VLCLfPdyaY_EvoKpeL-A) | Private Equity + Other | Open  | All locations, all teams |
