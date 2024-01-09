@@ -23,6 +23,7 @@ To contribute:
 | [Lazard](https://lazard-careers.tal.net/vx/lang-en-GB/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/) | Investment Banking | Open  | All locations |
 | Qatalyst | Investment Banking | Open  | SF, application on Handshake |
 | [Deustche Bank](https://careers.db.com/students-graduates/Search-Programmes/#/graduate/results/?program=11&year=2025) | Investment Banking | Open  | All locations |
+| [UBS](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25008&siteid=5029&Areq=284261BR&codes=GBInsight&utm_source=recruitu.beehiiv.com&utm_medium=newsletter&utm_campaign=first-step-to-final-offer-01-02-24#jobDetails=287598_5029) | Investment Banking | Open  | New York City |
 | [William Blair](https://williamblair.avature.net/careers) | Investment Banking | Open  | All locations |
 | [Ares](https://aresmgmt.wd1.myworkdayjobs.com/External) | Private Equity + Other | Open  | All locations, all teams |
 | [KKR](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-pwpext/brand-4/xf-3692fcc9b38d/candidate/jobboard/vacancy/2/adv/) | Private Equity + Other | Open  | All locations, all teams |
