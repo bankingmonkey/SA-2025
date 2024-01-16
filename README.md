@@ -52,5 +52,6 @@ Private Equity Extended
 | [KKR](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-pwpext/brand-4/xf-3692fcc9b38d/candidate/jobboard/vacancy/2/adv/) | Private Equity + Other | Open  | All locations, all teams |
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/jobs?fbclid=IwAR1UEUA5JGgy_tBkZiYXoyaGTOmStLedks97IZ-VLCLfPdyaY_EvoKpeL-A) | Private Equity + Other | Open  | All locations, all teams |
 | [Bain Capital](https://baincapital.wd1.myworkdayjobs.com/en-US/External_Public) | Private Equity + Other | Open  | All locations, all teams |
+| [Insight Partners](https://jobs.smartrecruiters.com/ni/InsightPartners/c8f7ae8b-ed42-430d-8531-4c6541870a5d-2025-summer-investment-analyst?trid=4c464fc6-02de-4f76-aa69-f2f9e0aad70e) | Growth Equity | Open  | New York City |
 
 
