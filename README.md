@@ -24,6 +24,7 @@ Investment Banks
 | [UBS](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25008&siteid=5029&Areq=284261BR&codes=GBInsight&utm_source=recruitu.beehiiv.com&utm_medium=newsletter&utm_campaign=first-step-to-final-offer-01-02-24#jobDetails=287598_5029) | Investment Banking | Open  | New York City |
 | [Moelis](https://moelis-careers.tal.net/candidate/jobboard/vacancy/2/adv/) | Investment Banking | Open  | Houston (Jan 23 deadline), NYC (Feb 12 deadline)|
 | [William Blair](https://williamblair.avature.net/careers) | Investment Banking | Open  | All locations |
+| [Morgan Stanley](https://www.morganstanley.com/careers/career-opportunities-search#) | Investment Banking | Open  | New York City |
 
 ---
 
@@ -50,5 +51,6 @@ Private Equity Extended
 | [Ares](https://aresmgmt.wd1.myworkdayjobs.com/External) | Private Equity + Other | Open  | All locations, all teams |
 | [KKR](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-pwpext/brand-4/xf-3692fcc9b38d/candidate/jobboard/vacancy/2/adv/) | Private Equity + Other | Open  | All locations, all teams |
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/jobs?fbclid=IwAR1UEUA5JGgy_tBkZiYXoyaGTOmStLedks97IZ-VLCLfPdyaY_EvoKpeL-A) | Private Equity + Other | Open  | All locations, all teams |
+| [Bain Capital](https://baincapital.wd1.myworkdayjobs.com/en-US/External_Public) | Private Equity + Other | Open  | All locations, all teams |
 
 
